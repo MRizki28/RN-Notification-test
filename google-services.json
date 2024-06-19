@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149603618466",
+    "project_id": "lets-imun",
+    "storage_bucket": "lets-imun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149603618466:android:31983d406ecdf36a4e91fb",
+        "android_client_info": {
+          "package_name": "com.mrizki28.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoqcntJxYudTdYJCAnrl9S14LLdQDNSXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

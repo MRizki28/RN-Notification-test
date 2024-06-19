@@ -15,13 +15,24 @@
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mrizki28.testing"
     },
+    "plugins": [
+      "@react-native-firebase/app",
+      "expo-build-properties"
+    ],
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bd2b23ff-7753-4dd3-8cef-a32fd14166b6"
+      }
     }
   }
 }
